@@ -1,0 +1,10 @@
+C:\Users\MKA\Desktop\Programlar\SayiyiBasamaklaraAyirma\SayiyiBasamaklaraAyirma\bin\Debug\SayiyiBasamaklaraAyirma.exe.config
+C:\Users\MKA\Desktop\Programlar\SayiyiBasamaklaraAyirma\SayiyiBasamaklaraAyirma\bin\Debug\SayiyiBasamaklaraAyirma.exe
+C:\Users\MKA\Desktop\Programlar\SayiyiBasamaklaraAyirma\SayiyiBasamaklaraAyirma\bin\Debug\SayiyiBasamaklaraAyirma.pdb
+C:\Users\MKA\Desktop\Programlar\SayiyiBasamaklaraAyirma\SayiyiBasamaklaraAyirma\obj\Debug\SayiyiBasamaklaraAyirma.csprojAssemblyReference.cache
+C:\Users\MKA\Desktop\Programlar\SayiyiBasamaklaraAyirma\SayiyiBasamaklaraAyirma\obj\Debug\SayiyiBasamaklaraAyirma.Form1.resources
+C:\Users\MKA\Desktop\Programlar\SayiyiBasamaklaraAyirma\SayiyiBasamaklaraAyirma\obj\Debug\SayiyiBasamaklaraAyirma.Properties.Resources.resources
+C:\Users\MKA\Desktop\Programlar\SayiyiBasamaklaraAyirma\SayiyiBasamaklaraAyirma\obj\Debug\SayiyiBasamaklaraAyirma.csproj.GenerateResource.cache
+C:\Users\MKA\Desktop\Programlar\SayiyiBasamaklaraAyirma\SayiyiBasamaklaraAyirma\obj\Debug\SayiyiBasamaklaraAyirma.csproj.CoreCompileInputs.cache
+C:\Users\MKA\Desktop\Programlar\SayiyiBasamaklaraAyirma\SayiyiBasamaklaraAyirma\obj\Debug\SayiyiBasamaklaraAyirma.exe
+C:\Users\MKA\Desktop\Programlar\SayiyiBasamaklaraAyirma\SayiyiBasamaklaraAyirma\obj\Debug\SayiyiBasamaklaraAyirma.pdb
